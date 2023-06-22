@@ -1,4 +1,3 @@
-# WARNING!!! UNDER CONSTRUCTION
 # Automated Storage and Retrieval System using Fanuc 6-axis Manipulator
 
 6 axis robot material management system using a PLC-based Automated Storage and Retrieval System
@@ -11,13 +10,13 @@
 
 - [Hardware Components 🀆](#hardware-components)
 - [Hardware Overview](#hardware-overview)
-- [Ikki68 Aurora PnC Keyboard](#ikki68-pnc-keyboard)
+- [Software Reqs](#software-reqs)
 - [6502 Microprocessor Breadboard Computer](#6502-breadboard-computer)
 - [Macro Keyboard w/ OLED Display](#macro-keyboard-with-oled)
 - [Piano LED Visualizer](#piano-led-visualizer)
 
 
-
+++++++++++++++
 ### Hardware Components
 - FANUC LR Mate 200iD/4S
 - Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B)
@@ -33,3 +32,9 @@ We need crimping tools and other necessary tools for PLC panel wiring, as well a
 
 
 ### Hardware Overview
+
+
+
+
+
+### Software Reqs
