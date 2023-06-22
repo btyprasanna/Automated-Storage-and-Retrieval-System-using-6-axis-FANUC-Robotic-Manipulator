@@ -19,9 +19,9 @@
 
 
 ### Hardware Components
-- Raspberry Pi 3b or 4 (with Raspberry Pi OS)
-- 64x64 LED RGB Matrix (Adafruit)
-- RGB Matrix Bonnet (Adafruit)
+- FANUC LR Mate 200iD/4S
+- Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B)
+- 24V Relay Module
 - 5V 10A Power Supply
 
 
