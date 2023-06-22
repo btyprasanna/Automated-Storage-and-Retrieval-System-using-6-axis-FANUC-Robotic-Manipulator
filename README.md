@@ -22,7 +22,14 @@
 - FANUC LR Mate 200iD/4S
 - Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B)
 - 24V Relay Module
-- 5V 10A Power Supply
+- 24V 10A Power Supply
+- Pneumatic Cylinder (Double acting)
+- One-Way Flow Control Valve
+- Telescopic Slide
+- Acrylic Sheet
+
+We need crimping tools and other necessary tools for PLC panel wiring, as well as pneumatic cables and accessories for the pneumatic system.
+
 
 
 ### Hardware Overview
