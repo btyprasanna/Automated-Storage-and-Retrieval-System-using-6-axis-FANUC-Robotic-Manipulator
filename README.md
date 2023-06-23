@@ -9,33 +9,31 @@
 ## Index
 
 - [Hardware Components 🀆](#hardware-components)
-- [Hardware Overview](#hardware-overview)
 - [Software Reqs](#software-reqs)
-- [6502 Microprocessor Breadboard Computer](#6502-breadboard-computer)
-- [Macro Keyboard w/ OLED Display](#macro-keyboard-with-oled)
-- [Piano LED Visualizer](#piano-led-visualizer)
+- [
 
 
-++++++++++++++
 ### Hardware Components
-- FANUC LR Mate 200iD/4S
-- Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B)
-- 24V Relay Module
-- 24V 10A Power Supply
-- Pneumatic Cylinder (Double acting)
-- One-Way Flow Control Valve
-- Telescopic Slide
+- [FANUC LR Mate 200iD/4S](https://www.fanucamerica.com/products/robots/series/lr-mate/lr-mate-200id-4s)
+- [Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B)](https://www.rockwellautomation.com/en-us/products/details.1769-L16ER-BB1B.html)
+- [24V Relay Module](https://www.google.com/search?q=24v+relay+module&tbm=shop)
+- [24V 10A Power Supply](https://www.google.com/search?q=24V+10A+Power+Supply&tbm=shop)
+- [Pneumatic Cylinder (Double acting)](https://www.google.com/search?q=Pneumatic+Cylinder+(Double+acting)&tbm=shop)
+- [Five Ways (5/2 or 5/3) Solenoid Valves](https://www.google.com/search?q=Five+Ways+(5/2+or+5/3)+Solenoid+Valve&tbm=shop)
+- [One-Way Flow Control Valve](https://www.google.com/search?q=One-Way+Flow+Control+Valve&tbm=shop)
+- [Telescopic Slide](https://www.google.com/search?q=Telescopic+Slide&tbm=shop)
+- Aluminium Profile
+- Aluminium Profile Angle Bracket
 - Acrylic Sheet
+- 3D Printed Components
 
 We need crimping tools and other necessary tools for PLC panel wiring, as well as pneumatic cables and accessories for the pneumatic system.
 
 
-
-### Hardware Overview
-
-
-
-
-
 ### Software Reqs
-- Studio 5000
+- [Studio 5000](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designsuite/studio-5000.html)
+
+The robot's position program can be programmed using the teach pendant of the robot.
+
+
+### Methodology
