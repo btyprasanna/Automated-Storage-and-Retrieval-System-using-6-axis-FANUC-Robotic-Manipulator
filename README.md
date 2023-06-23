@@ -10,7 +10,7 @@
 
 - [Hardware Components 🀆](#hardware-components)
 - [Software Reqs](#software-reqs)
-- [
+- [Methodology](#methodology)
 
 
 ### Hardware Components
