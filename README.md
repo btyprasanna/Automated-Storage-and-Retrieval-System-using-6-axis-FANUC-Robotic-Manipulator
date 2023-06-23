@@ -8,6 +8,7 @@ This repository contains documentation for an Automated Storage and Retrieval Sy
 
 ## Index
 
+- [Features](#features)
 - [Hardware Components 🀆](#hardware-components)
 - [Software Reqs](#software-reqs)
 - [Methodology](#methodology)
@@ -15,9 +16,24 @@ This repository contains documentation for an Automated Storage and Retrieval Sy
   - [System Integration](#system-integration)
   - [PLC Programming](#plc-programming)
   - [Robot Programming](#robot-programming)
-  - [System Calibration and Testing](#System-Calibration-and-Testing)
+  - [System Calibration and Testing](#system-calibration-and-testing)
+
+
+### Features
+
+Utilizes the Fanuc LR Mate 200iD 4S robotic manipulator for precise object manipulation.
+
+Integrates a pneumatic system with double-acting cylinders and telescopic slides for rack movement.
+
+Control system based on Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B) PLC.
+
+Communication between the PLC and the Fanuc robot is established through Ethernet I/O, enabling seamless coordination.
+
+Programmed using Studio 5000 software for PLC programming.
+
 
 ### Hardware Components
+
 - [FANUC LR Mate 200iD/4S](https://www.fanucamerica.com/products/robots/series/lr-mate/lr-mate-200id-4s)
 - [Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B)](https://www.rockwellautomation.com/en-us/products/details.1769-L16ER-BB1B.html)
 - [24V Relay Module](https://www.google.com/search?q=24v+relay+module&tbm=shop)
@@ -35,6 +51,7 @@ We need crimping tools and other necessary tools for PLC panel wiring, as well a
 
 
 ### Software Reqs
+
 - [Studio 5000](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designsuite/studio-5000.html)
 
 The robot's position program can be programmed using the teach pendant of the robot.
