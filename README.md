@@ -14,7 +14,7 @@
   - [System Design](#system-design)
   - [System Integration](#system-integration)
   - [PLC Programming](#plc-programming)
-  - [Robot Programming](#Robot-programming)
+  - [Robot Programming](#robot-programming)
   - [System Calibration and Testing](#System-Calibration-and-Testing)
 
 ### Hardware Components
