@@ -2,8 +2,7 @@
 
 This repository contains documentation for an Automated Storage and Retrieval System (ASRS) implemented using a Fanuc LR Mate 200iD 4S 6-axis manipulator. The system is designed to pick objects and place them in designated storage racks made of Acrylic Sheet. The ASRS utilizes pneumatic cylinders (double acting) and telescopic slides controlled by five-way solenoid valves.
 
-![1686416528736](https://github.com/btyprasanna/Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator/assets/106366271/ae92cd19-a6f4-4941-a6f0-33405bae16d7)
-
+![Free Photo Enhancer_ Make Blurry Picture Clear Online _ PicWish_2](https://github.com/btyprasanna/Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator/assets/106366271/f554c088-b767-49fb-ba6e-48d3644a52d1)
 > All project images and videos were taken by me unless stated otherwise.
 
 ## Index
@@ -17,7 +16,9 @@ This repository contains documentation for an Automated Storage and Retrieval Sy
   - [PLC Programming](#plc-programming)
   - [Robot Programming](#robot-programming)
   - [System Calibration and Testing](#system-calibration-and-testing)
+- [Usage](#usage)
 
+  
 
 ### Features
 
@@ -97,3 +98,10 @@ Integrate the subprograms with a main programn that contains the virtual I/O tag
 Calibrate the robot and the ASRS system to ensure precise movements and accurate object placement.
 Perform testing to verify the functionality of the system, including object picking, rack movement, and placement.
 Fine-tune the system parameters as needed to achieve optimal performance and reliability.
+
+### Usage
+- Power on the system and ensure all connections are secure.
+- Press the designated push button corresponding to the desired rack in the ASRS.
+- The PLC will communicate with the Fanuc robot through Ethernet I/O, triggering the specific subprogram for the designated rack.
+- The robot will execute the predefined positions and paths to pick and place the object accurately.
+- Once the object is placed, the system is ready for the next operation.
