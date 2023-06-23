@@ -100,8 +100,12 @@ Perform testing to verify the functionality of the system, including object pick
 Fine-tune the system parameters as needed to achieve optimal performance and reliability.
 
 ### Usage
+
 - Power on the system and ensure all connections are secure.
 - Press the designated push button corresponding to the desired rack in the ASRS.
 - The PLC will communicate with the Fanuc robot through Ethernet I/O, triggering the specific subprogram for the designated rack.
 - The robot will execute the predefined positions and paths to pick and place the object accurately.
 - Once the object is placed, the system is ready for the next operation.
+
+
+Note: This repository is intended for educational and research purposes. Use caution and follow safety guidelines while working with the automated system.
