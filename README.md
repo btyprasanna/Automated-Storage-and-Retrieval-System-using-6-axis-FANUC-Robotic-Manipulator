@@ -11,7 +11,11 @@
 - [Hardware Components 🀆](#hardware-components)
 - [Software Reqs](#software-reqs)
 - [Methodology](#methodology)
-
+  - [System Design](#system-design)
+  - [System Integration](#system-integration)
+  - [PLC Programming](#plc-programming)
+  - [Robot Programming](#Robot-programming)
+  - [System Calibration and Testing](#System-Calibration-and-Testing)
 
 ### Hardware Components
 - [FANUC LR Mate 200iD/4S](https://www.fanucamerica.com/products/robots/series/lr-mate/lr-mate-200id-4s)
