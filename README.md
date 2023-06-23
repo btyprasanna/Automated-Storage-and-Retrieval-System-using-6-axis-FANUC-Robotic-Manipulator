@@ -38,3 +38,4 @@ We need crimping tools and other necessary tools for PLC panel wiring, as well a
 
 
 ### Software Reqs
+- Studio 5000
