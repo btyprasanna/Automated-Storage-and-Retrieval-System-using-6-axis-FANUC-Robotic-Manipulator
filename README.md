@@ -22,15 +22,11 @@ This repository contains documentation for an Automated Storage and Retrieval Sy
 
 ### Features
 
-Utilizes the Fanuc LR Mate 200iD 4S robotic manipulator for precise object manipulation.
-
-Integrates a pneumatic system with double-acting cylinders and telescopic slides for rack movement.
-
-Control system based on Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B) PLC.
-
-Communication between the PLC and the Fanuc robot is established through Ethernet I/O, enabling seamless coordination.
-
-Programmed using Studio 5000 software for PLC programming.
+- Utilizes the Fanuc LR Mate 200iD 4S robotic manipulator for precise object manipulation.
+- Integrates a pneumatic system with double-acting cylinders and telescopic slides for rack movement.
+- Control system based on Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B) PLC.
+- Communication between the PLC and the Fanuc robot is established through Ethernet I/O, enabling seamless coordination.
+- Programmed using Studio 5000 software for PLC programming.
 
 
 ### Hardware Components
@@ -62,16 +58,7 @@ The robot's position program can be programmed using the teach pendant of the ro
 
 #### System Design:
 
-- Identify the requirements and specifications of the Automated Storage and Retrieval System (ASRS).
-Select the Fanuc LR Mate 200iD 4S robot as the robotic manipulator.
-
-- Choose Acrylic Sheet for the construction of the storage racks.
-
-- Determine the suitable Pneumatic Cylinder (Double acting) and Telescopic Slide for rack movement.
-
-- Select the appropriate Five Ways (5/2 or 5/3) Solenoid Valves for controlling the pneumatic components.
-
-- Choose the Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B) PLC for controlling the solenoid valves.
+Identify the requirements and specifications of the Automated Storage and Retrieval System (ASRS). Select the Fanuc LR Mate 200iD 4S robot as the robotic manipulator. Choose Acrylic Sheet for the construction of the storage racks. Determine the suitable Pneumatic Cylinder (Double acting) and Telescopic Slide for rack movement. Select the appropriate Five Ways (5/2 or 5/3) Solenoid Valves for controlling the pneumatic components. Choose the Allen Bradley CompactLogix L16 384KB Ctlr (1769-L16ER-BB1B) PLC for controlling the solenoid valves.
 
 #### System Integration:
 
