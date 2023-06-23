@@ -1,6 +1,6 @@
 # Automated Storage and Retrieval System using Fanuc 6-axis Manipulator
 
-6 axis robot material management system using a PLC-based Automated Storage and Retrieval System
+This repository contains documentation for an Automated Storage and Retrieval System (ASRS) implemented using a Fanuc LR Mate 200iD 4S 6-axis manipulator. The system is designed to pick objects and place them in designated storage racks made of Acrylic Sheet. The ASRS utilizes pneumatic cylinders (double acting) and telescopic slides controlled by five-way solenoid valves.
 
 ![1686416528736](https://github.com/btyprasanna/Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator/assets/106366271/ae92cd19-a6f4-4941-a6f0-33405bae16d7)
 
