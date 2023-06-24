@@ -8,7 +8,7 @@ This repository contains documentation for an Automated Storage and Retrieval Sy
 ## Index
 
 - [Features](#features)
-- [Hardware Components 🀆](#hardware-components)
+- [Hardware Components 🔌](#hardware-components)
 - [Software Reqs](#software-reqs)
 - [Methodology](#methodology)
   - [System Design](#system-design)
