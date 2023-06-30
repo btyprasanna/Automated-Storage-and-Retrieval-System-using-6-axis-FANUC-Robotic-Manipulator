@@ -12,7 +12,7 @@ This repository contains documentation for an Automated Storage and Retrieval Sy
 - [Features](#features)
 - [Hardware Components 🔌](#hardware-components)
 - [Software Reqs](#software-reqs)
-- [Methodology](#methodology)
+- [System Configuration](#system-configuration)
   - [System Design](#system-design)
   - [System Integration](#system-integration)
   - [PLC Programming](#plc-programming)
@@ -55,7 +55,7 @@ We need crimping tools and other necessary tools for PLC panel wiring, as well a
 The robot's position program can be programmed using the teach pendant of the robot.
 
 
-## Methodology
+## System Configuration
 
 ### System Design:
 
