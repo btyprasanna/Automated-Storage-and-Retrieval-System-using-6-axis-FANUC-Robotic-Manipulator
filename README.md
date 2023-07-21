@@ -4,7 +4,14 @@
 This repository contains documentation for an Automated Storage and Retrieval System (ASRS) implemented using a Fanuc LR Mate 200iD 4S 6-axis manipulator. The system is designed to pick objects and place them in designated storage racks made of Acrylic Sheet. The ASRS utilizes pneumatic cylinders (double acting) and telescopic slides controlled by five-way solenoid valves.
 </p>
 
-![Free Photo Enhancer_ Make Blurry Picture Clear Online _ PicWish_2](https://github.com/btyprasanna/Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator/assets/106366271/f554c088-b767-49fb-ba6e-48d3644a52d1)
+<img align="center"
+src="https://github.com/btyprasanna/Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator/assets/106366271/f554c088-b767-49fb-ba6e-48d3644a52d1">
+</a>
+
+<img align="center"
+src="https://github.com/btyprasanna/Automated-Storage-and-Retrieval-System-using-6-axis-FANUC-Robotic-Manipulator/assets/106366271/2f8a2010-ca71-4af4-a76c-24ac5f01cf7e">
+</a>
+
 > All project images and videos were taken by me unless stated otherwise.
 
 ## Index
